@@ -65,7 +65,7 @@ class HomeScreen extends StatelessWidget {
                   padding:
                       EdgeInsets.only(left: 0, bottom: 10, right: 0, top: 0),
                   child: SearchBar(
-                    constraints: BoxConstraints(minHeight: 50.0),
+                    constraints: BoxConstraints(minHeight: 40.0),
                     leading: Icon(Icons.search),
                     hintText: "Search",
                   ),
@@ -87,7 +87,7 @@ class HomeScreen extends StatelessWidget {
                       borderRadius:
                           BorderRadius.circular(10.0), // Kenar yuvarlaklığı
                       child: Image.network(
-                        "https://i.hizliresim.com/se4krnh.jpeg",
+                        "https://i.hizliresim.com/mlytgfk.jpeg",
                         width: 160,
                         height: 80,
                         fit: BoxFit.cover,
@@ -102,7 +102,7 @@ class HomeScreen extends StatelessWidget {
                       borderRadius:
                           BorderRadius.circular(10.0), // Kenar yuvarlaklığı
                       child: Image.network(
-                        "https://i.hizliresim.com/se4krnh.jpeg",
+                        "https://i.hizliresim.com/8z5oidj.jpeg",
                         width: 160,
                         height: 80,
                         fit: BoxFit.cover,
@@ -112,7 +112,7 @@ class HomeScreen extends StatelessWidget {
                       borderRadius:
                           BorderRadius.circular(10.0), // Kenar yuvarlaklığı
                       child: Image.network(
-                        "https://i.hizliresim.com/2cy5zpq.jpeg",
+                        "https://i.hizliresim.com/4w2u84b.jpeg",
                         width: 160,
                         height: 80,
                         fit: BoxFit.cover,
